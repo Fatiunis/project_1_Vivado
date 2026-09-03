@@ -1,0 +1,11 @@
+# Temporales y directorios pesados de Vivado
+*.jou
+*.log
+*.str
+*.dmp
+.Xil/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.cache/
+*.sim/
